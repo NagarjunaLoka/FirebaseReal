@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1005284688093",
+    "firebase_url": "https://fir-real-bc20d.firebaseio.com",
+    "project_id": "fir-real-bc20d",
+    "storage_bucket": "fir-real-bc20d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005284688093:android:b4146e24ea5ddf75",
+        "android_client_info": {
+          "package_name": "com.example.zoy.firebasereal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005284688093-sds7641qp99k8a0ifs5mbf79epnitsu6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.zoy.firebasereal",
+            "certificate_hash": "204a091417febe747373cdbacf43eb4ad6f5a782"
+          }
+        },
+        {
+          "client_id": "1005284688093-o9sifsrai5lt6pjbaoahbmlibcppel2j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd4cI8xZqfaHKRusy2BYvtGUf8-ASU-O0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1005284688093-o9sifsrai5lt6pjbaoahbmlibcppel2j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
